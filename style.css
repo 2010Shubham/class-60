@@ -1,0 +1,69 @@
+body {
+    text-align: center;
+    background: linear-gradient (#00d4ff);
+
+
+
+}
+
+img {
+    border-radius: 50%;
+    width: 100px;
+ object-position: center;
+}
+
+
+h1 {
+    text-shadow: 2px 2px #F8BBDO;
+    font-size: 20px;
+}
+
+p {
+    font-size: 18px;
+    color: darkorange;
+
+}
+
+#name {
+    font-size: :20px;
+
+}
+
+.menu {
+
+    
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+
+.links {
+    float: right;
+    color: fuchsia;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: 'Grechen Fuemen', cursive;
+    font-size: 20px;
+    
+        
+        
+}
+
+.links:hover {
+    background-color: aqua;
+}
+.profile{
+    
+     width: 175px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    padding-left: 200px;
+   object-fit:fill; 
+    
+}
